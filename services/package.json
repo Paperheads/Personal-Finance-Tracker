@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "amount": 200,
+    "type_of": "income",
+    "description": "Test 1",
+    "date": "2025-05-15 20:09:13.620405",
+    "category": "Food"
+  },
+  {
+    "amount": 100,
+    "type_of": "expense",
+    "description": "Test 2",
+    "date": "2025-05-15 20:09:31.377994",
+    "category": "Github"
+  }
+]
